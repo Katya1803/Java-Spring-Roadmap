@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "com.company.singleresp_ex.Main",
+            "projectName": "design_principles"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - UserReportGenerator",
+            "request": "launch",
+            "mainClass": "com.company.encapsulation_ex.report.UserReportGenerator",
+            "projectName": "design_principles"
+        }
+    ]
+}

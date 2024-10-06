@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/01-spring-boot-rest-crud-hello-world/pom.xml" />
+        <option value="$PROJECT_DIR$/02-spring-boot-rest-crud-students-list-base/pom.xml" />
+        <option value="$PROJECT_DIR$/20-spring-boot-rest-crud-employee-list-employees/pom.xml" />
+        <option value="$PROJECT_DIR$/03-spring-boot-rest-crud-students-list-refactored/pom.xml" />
+        <option value="$PROJECT_DIR$/05-spring-boot-rest-crud-students-exception-handling/pom.xml" />
+        <option value="$PROJECT_DIR$/30-spring-boot-rest-crud-employee-with-spring-data-jpa/pom.xml" />
+        <option value="$PROJECT_DIR$/40-spring-boot-rest-crud-employee-with-spring-data-rest/pom.xml" />
+        <option value="$PROJECT_DIR$/21-spring-boot-rest-crud-employee-refactored-service-layer/pom.xml" />
+        <option value="$PROJECT_DIR$/06-spring-boot-rest-crud-students-global-exception-handling/pom.xml" />
+        <option value="$PROJECT_DIR$/22-spring-boot-rest-crud-employee-dao-find-add-update-delete/pom.xml" />
+        <option value="$PROJECT_DIR$/25-spring-boot-rest-crud-employee-rest-controller-add-employee/pom.xml" />
+        <option value="$PROJECT_DIR$/23-spring-boot-rest-crud-employee-service-find-add-update-delete/pom.xml" />
+        <option value="$PROJECT_DIR$/04-spring-boot-rest-crud-students-path-variable-get-single-student/pom.xml" />
+        <option value="$PROJECT_DIR$/24-spring-boot-rest-crud-employee-rest-controller-get-single-employee/pom.xml" />
+        <option value="$PROJECT_DIR$/50-spring-boot-rest-crud-employee-with-spring-data-rest-configs-and-sorting/pom.xml" />
+        <option value="$PROJECT_DIR$/26-spring-boot-rest-crud-employee-rest-controller-update-employee-and-delete-employee/pom.xml" />
+      </list>
+    </option>
+    <option name="workspaceImportForciblyTurnedOn" value="true" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="20" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

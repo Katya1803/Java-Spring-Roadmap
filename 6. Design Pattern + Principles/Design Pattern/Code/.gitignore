@@ -1,0 +1,28 @@
+### Java template
+# Compiled class file
+*.class
+
+### Eclipse template
+
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+.recommenders
+
+# Gradle Files #
+################
+.gradle
+.m2
+
+# Build output directies
+/target
+*/target
+/build
+*/build

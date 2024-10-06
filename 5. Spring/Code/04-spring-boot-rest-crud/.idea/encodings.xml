@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/01-spring-boot-rest-crud-hello-world/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02-spring-boot-rest-crud-students-list-base/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03-spring-boot-rest-crud-students-list-refactored/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04-spring-boot-rest-crud-students-path-variable-get-single-student/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/05-spring-boot-rest-crud-students-exception-handling/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/06-spring-boot-rest-crud-students-global-exception-handling/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/20-spring-boot-rest-crud-employee-list-employees/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/21-spring-boot-rest-crud-employee-refactored-service-layer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/22-spring-boot-rest-crud-employee-dao-find-add-update-delete/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/23-spring-boot-rest-crud-employee-service-find-add-update-delete/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/24-spring-boot-rest-crud-employee-rest-controller-get-single-employee/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/25-spring-boot-rest-crud-employee-rest-controller-add-employee/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/26-spring-boot-rest-crud-employee-rest-controller-update-employee-and-delete-employee/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/30-spring-boot-rest-crud-employee-with-spring-data-jpa/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/40-spring-boot-rest-crud-employee-with-spring-data-rest/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/50-spring-boot-rest-crud-employee-with-spring-data-rest-configs-and-sorting/src/main/java" charset="UTF-8" />
+  </component>
+</project>
